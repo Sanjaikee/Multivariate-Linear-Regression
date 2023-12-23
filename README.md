@@ -26,8 +26,8 @@ Print the predicted output.
 
 ## Program:
 ```
-#developed by C.Prabha
-#Reference number: 22008837
+#developed by Sanjai S
+#Reference number: 23003393
 
 import pandas as pd
 from sklearn import linear_model
@@ -52,7 +52,8 @@ print('Predicted CO2 for the corresponding weight and volume',predictedCO2)
 
 ```
 ## Output:
-  ![](./Screenshot%20from%202023-01-24%2018-42-23.png)
+  ![Screenshot 2023-12-23 091851](https://github.com/Sanjaikee/Multivariate-Linear-Regression/assets/150231888/3c5d5111-1e3e-48b7-b595-d3d3a86353f0)
+
 
 ## Result
 Thus the multivariate linear regression is implemented and predicted the output using python program.
